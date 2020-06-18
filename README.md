@@ -19,3 +19,5 @@ Unit 3: Conditionals
 This is a 3-part lab in APCS Unit 3 Lab Excercises.pdf. The parts are labeled LabPart1.java, LabPart2.java, and LabPart3.java.
 
 Unit 4: Iterations
+
+All instructions are in APCS Unit 4 Lab Excercises.pdf (sorry-- ATM actually shouldn't have 'machine' after it-- the 'm' already stands for 'machine'!). The solutions are also included.
