@@ -29,3 +29,7 @@ For this unit, see APCS Unit 5 Lab Exercises.pdf. Labs include Ticket Generator 
 Unit 6: Arrays
 
 Instructions are all in APCS Unit 6 Lab Exercises.pdf. The first page corresponds to FibonacciLab.java, PythagoreanTriple.java, and Scrabble.java. The second page is all in ForEach.java, and the third page corresponds to TenIntsLab.java and Hangman.java, and the last lab is War.java.
+
+Unit 7: ArrayLists
+
+HungryHerman.java, GroceryList.java, and Dictionary.java all correspond to their respective labs. Additionally, Word.java is a class for the Dictionary Lab. Die.java, DieCup.java, and DiceGame.java are all classes for the Yahtzee Lab.
