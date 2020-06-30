@@ -12,7 +12,7 @@ MathFunctions.java and LunchTime.java are my sample solutions.
 
 Unit 2: Objects
 
-All of the Labs for this unit are in APCS Unit 2 Lab Exercises.pdf. Three of the labs have Tester Labs that must be run in the same project in order for the code to work. Additionally, I wrote AdventureLab.java, which is a program for the game hangman that might be helpful to take a look at.
+Three of the labs have Tester Labs that must be run in the same project in order for the code to work. Additionally, I wrote AdventureLab.java, which is a program for the game hangman that might be helpful to take a look at.
 
 Unit 3: Conditionals
 
@@ -20,15 +20,15 @@ This is a 3-part lab in APCS Unit 3 Lab Exercises.pdf. The parts are labeled Lab
 
 Unit 4: Iterations
 
-All instructions are in APCS Unit 4 Lab Exercises.pdf (sorry-- ATM actually shouldn't have 'machine' after it-- the 'm' already stands for 'machine'!). The solutions are also included.
+Each lab is named accordingly (sorry-- ATM actually shouldn't have 'machine' after it-- the 'm' already stands for 'machine'!).
 
 Unit 5: Writing Classes
 
-For this unit, see APCS Unit 5 Lab Exercises.pdf. Labs include Ticket Generator Lab and Tax Lab and their respective Tester classes.
+Labs include Ticket Generator Lab and Tax Lab and their respective Tester classes.
 
 Unit 6: Arrays
 
-Instructions are all in APCS Unit 6 Lab Exercises.pdf. The first page corresponds to FibonacciLab.java, PythagoreanTriple.java, and Scrabble.java. The second page is all in ForEach.java, and the third page corresponds to TenIntsLab.java and Hangman.java, and the last lab is War.java.
+The first page corresponds to FibonacciLab.java, PythagoreanTriple.java, and Scrabble.java. The second page is all in ForEach.java, and the third page corresponds to TenIntsLab.java and Hangman.java, and the last lab is War.java.
 
 Unit 7: ArrayLists
 
