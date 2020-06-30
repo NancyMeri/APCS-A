@@ -33,3 +33,7 @@ The first page corresponds to FibonacciLab.java, PythagoreanTriple.java, and Scr
 Unit 7: ArrayLists
 
 HungryHerman.java, GroceryList.java, and Dictionary.java all correspond to their respective labs. Additionally, Word.java is a class for the Dictionary Lab. Die.java, DieCup.java, and DiceGame.java are all classes for the Yahtzee Lab.
+
+Unit 8: 2D Arrays
+
+Labs are labeled ArraysStarter.java, Matrices.java, and TicTacToe.java.
